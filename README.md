@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg?w=1400)
+![MasterHead](https://t3.ftcdn.net/jpg/03/76/23/14/240_F_376231431_ETTSp326ne8pURyKLjYOREXVPmyuOYxT.jpg)
 # 💫 About Me:
 I’m Raj Kumar, a certified Cloud & DevOps Engineer currently pursuing my BCA (5th semester) at Bhagwati Institute of Technology and Science, Ghaziabad. With hands-on experience across AWS, Azure, and GCP, I specialize in automating cloud infrastructure using tools like Terraform, Jenkins, Kubernetes, and Docker. I’ve built and deployed production-ready CI/CD pipelines, implemented advanced DevSecOps practices, and led multi-cloud infrastructure projects during my internship at CloudDevOpsHub.<br><br>I'm passionate about solving real-world problems through scalable, secure, and automated cloud-native solutions. I thrive in Agile environments and continuously seek to integrate AI, monitoring, and security into modern DevOps workflows.<br><br>
 
