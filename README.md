@@ -14,7 +14,7 @@ I’m Raj Kumar, a certified Cloud & DevOps Engineer currently pursuing my BCA (
 ![](https://nirzak-streak-stats.vercel.app/?user=rajv69023&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajv69023&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajv69023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
